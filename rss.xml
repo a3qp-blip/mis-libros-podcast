@@ -5,27 +5,34 @@
     <description>Audiolibros personales desde Google Drive</description>
     <link>https://drive.google.com</link>
     <language>es</language>
-    <lastBuildDate>Mon, 04 May 2026 20:21:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 20:48:32 GMT</lastBuildDate>
     
+    <item>
+      <title>4. Cómo_funcionan_los_efectos_de_red</title>
+      <description>4. Cómo_funcionan_los_efectos_de_red</description>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1O7vmpLP5Ql8-5ym5eMgYdDA9hU2xV-Mw</guid>
+      <pubDate>Mon, 04 May 2026 20:48:32 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1O7vmpLP5Ql8-5ym5eMgYdDA9hU2xV-Mw" length="0" type="audio/mp4"/>
+    </item>
     <item>
       <title>2. Cómo_Airbnb_y_Uber_dominan_sin_inventario</title>
       <description>2. Cómo_Airbnb_y_Uber_dominan_sin_inventario</description>
       <guid>https://drive.google.com/uc?export=download&amp;id=194MpVNSh2FuclEpr1PBLI8v-bQk6tkpq</guid>
-      <pubDate>Mon, 04 May 2026 20:21:55 GMT</pubDate>
+      <pubDate>Mon, 04 May 2026 20:48:32 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=194MpVNSh2FuclEpr1PBLI8v-bQk6tkpq" length="0" type="audio/mp4"/>
     </item>
     <item>
       <title>3. Cómo_evitar_la_estupidez_sistemática</title>
       <description>3. Cómo_evitar_la_estupidez_sistemática</description>
       <guid>https://drive.google.com/uc?export=download&amp;id=12BNgWhcHN6OhRGuUVQzHFd_J-xT3D0Bc</guid>
-      <pubDate>Mon, 04 May 2026 20:21:55 GMT</pubDate>
+      <pubDate>Mon, 04 May 2026 20:48:32 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=12BNgWhcHN6OhRGuUVQzHFd_J-xT3D0Bc" length="0" type="audio/mp4"/>
     </item>
     <item>
       <title>1. Quién_pilotea_de_verdad_tu_cerebro</title>
       <description>1. Quién_pilotea_de_verdad_tu_cerebro</description>
       <guid>https://drive.google.com/uc?export=download&amp;id=1ut23yJoNjUtU_aRK1KRHsO1483yIvdzJ</guid>
-      <pubDate>Mon, 04 May 2026 20:21:55 GMT</pubDate>
+      <pubDate>Mon, 04 May 2026 20:48:32 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ut23yJoNjUtU_aRK1KRHsO1483yIvdzJ" length="0" type="audio/mp4"/>
     </item>
   </channel>
